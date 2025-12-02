@@ -14,7 +14,8 @@
    BODY - Simple grey background
    ======================================== */
 body {
-    font-family: 'Inter', sans-serif;  /* Change to use different font */
+    font-family: 'Inter', sans-serif;
+    /* Change to use different font */
     background: #f5f5f5;
     /* Change background color (grey/white/black) */
     min-height: 100vh;
@@ -116,6 +117,7 @@ body {
 
 /* Bio description */
 .description {
+    text-align: left;
     font-size: 0.95rem;
     /* Change to adjust description text size */
     line-height: 1.6;
